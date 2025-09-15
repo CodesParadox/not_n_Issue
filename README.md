@@ -148,7 +148,7 @@ python issues_manager.py update CodesParadox/not_n_Issue 123 \
 ```
 
 ### You will get Notification as soon as you Push a commit/issue to the repository
-SCREENSHOT
+
 <img width="890" height="824" alt="Image" src="https://github.com/user-attachments/assets/9d07f91a-168f-4006-932b-1dfd4808bd2c" />
 
 #### Comments and Conversation Management
