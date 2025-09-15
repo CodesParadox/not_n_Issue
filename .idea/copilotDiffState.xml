@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/.env.example">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/.env.example" />
+              <option name="updatedContent" value="# Required&#10;GITHUB_TOKEN=ghp_your_token_here&#10;# or use GH_TOKEN instead of GITHUB_TOKEN&#10;# Optional&#10;GITHUB_OWNER=your-github-username-or-org&#10;GITHUB_API_URL=https://api.github.com&#10;SLACK_WEBHOOK_URL=https://hooks.slack.com/services/XXX/YYY/ZZZ&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
